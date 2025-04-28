@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "tambong",
+			"path": ".."
+		},
+		{
+			"name": "assets",
+			"path": "../../attendanceapp/firebasesample/assets"
+		}
+	],
+	"settings": {}
+}
