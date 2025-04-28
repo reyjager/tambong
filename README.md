@@ -1,6 +1,6 @@
 # tambong
 
-A new Flutter project.
+After 2 months of working as a flutter developer. A first ever Flutter project has created intended for my personal community. 
 
 ## Getting Started
 
